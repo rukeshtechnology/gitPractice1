@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("from gitone again... yahoo from git 2...lll");
+		System.out.println("Taking out all");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
