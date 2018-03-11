@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
-	public static void main(String[] args) {
-		System.out.println("Taking out all");
+	public static void main(String[] args) {		
+		System.out.println("Keeping all");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
