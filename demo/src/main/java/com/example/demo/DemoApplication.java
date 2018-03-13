@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("workspace 1 and 2 combined.");
+		System.out.println("wsonebranch1");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
