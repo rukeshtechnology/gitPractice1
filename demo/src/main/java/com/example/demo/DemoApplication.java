@@ -11,6 +11,7 @@ public class DemoApplication {
 		System.out.println("Keeping all master");
 		System.out.println("stash2");
 		System.out.println("For stashing");
+		System.out.println("For stashing");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 }
